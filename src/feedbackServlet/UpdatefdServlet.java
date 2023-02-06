@@ -14,7 +14,7 @@ import models.Feedback;
 import util.FeedbackUtil;
 
 /**
- * Servlet implementation class UpdatefdServlet
+ * Servlet mplementation class UpdatefdServlet
  */
 @WebServlet("/UpdatefdServlet")
 public class UpdatefdServlet extends HttpServlet {
